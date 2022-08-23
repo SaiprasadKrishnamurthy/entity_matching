@@ -1,0 +1,25 @@
+index	26as_name	tan
+0	gujarat paraffins pvt ltd	AHMG00111G
+1	sk exports	KNPS01212B
+2	wilshire health care	BPLW00334F
+3	talco marketing	MUMT07522E
+4	dran engineers pvt ltd	PNED01383E
+5	atop fasteners pvt ltd	PTLA10226G
+6	atop fasteners pvt ltd	PTLA10226G
+7	bharat seats limited	DELB01261B
+8	radish technologies	AGRR11455D
+9	jbi engineering corporation	RCHJ00386B
+10	pramod telecom private limited	LKNP05017F
+11	pramod telecom private limited	LKNP05017F
+12	yathartha yantra udyog	RTKY00133A
+13	sbr auto components ltd	MRTS04636C
+14	poncho hospitality private limited	MUMP31632G
+15	indo auto tech limited	RTKI01022A
+16	kerala state electronics development corporation ltd	TVDK00814C
+17	sb felts india private limited	RTKS32554E
+18	nova sales	RTKN03871A
+19	ag industries private limited	RTKA11324F
+20	v r industries pvt ltd	DELV05258B
+21	3 generations	DELG13661E
+22	3 generations	DELG13661E
+23	A.B INTERNATIONAL	19AABFZ2219D1ZC

@@ -1,0 +1,29 @@
+sales_name	gstin
+10 muffins	33AAOFT0781F1Z4
+13 express	24ASFPR2448J1ZJ
+1 mile health care	08BMSPJ7324K1ZG
+1mile healthcare 1st floor galaxy marketing near gambhir hospital	08BMSPJ7324K1ZG
+21st century enviro engineers pvt ltd	03AAACZ3301J1ZQ
+24 ashok fasteners pvt ltd	27AABCZ5192N1ZM
+24ashok fasteners pvt ltd	27AABCZ5192N1ZM
+24 carats mithai magic	24AACFZ8367K1ZK
+2d bsc technologies	07AAAFZ8557B1Z1
+2k engineering corporation	06AAAFZ9208K1ZU
+3 an telecom	23ANYPT9196P1ZF
+3an telecom	23ANYPT9196P1ZF
+3a yantra inc	09AABFZ6521C1ZA
+3b auto components pvt ltd	27AABCZ2706L1Z4
+3cad hospitality llp	07AABFZ8359E1ZU
+3d auto tech	27AAAFZ9436F1ZV
+3d concept analysis development opment	27AAACZ3259R1ZJ
+3d felts	07AAAPJ2768E1ZX
+3e saleserv	24AABFZ8688C1ZU
+3ev industries private limited	29AABCZ3600R1ZT
+3ev industries pvt ltd	29AABCZ3600R1ZT
+3 generation	09AAAFZ6568L1ZD
+3 generations	02AAAFZ6568L1ZR
+3 generations	09AAAFZ6568L1ZD
+3 generations 2	09AAAFZ6568L1ZD
+3gen extrusions	19AABFZ2219D1ZC
+A B INTERNATIONAL	19AABFZ2219D1ZC
+

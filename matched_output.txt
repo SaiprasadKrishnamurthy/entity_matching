@@ -1,0 +1,4 @@
+	sales_name	gstin	26as_name	tan
+0	3 generation	09AAAFZ6568L1ZD	3 generations	DELG13661E
+1	3 generations	02AAAFZ6568L1ZR	3 generations	DELG13661E
+2	3 generations	09AAAFZ6568L1ZD	3 generations	DELG13661E
